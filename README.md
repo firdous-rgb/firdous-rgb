@@ -521,7 +521,6 @@ Python • Django • HTML • CSS
 
 </div>
 
-> ⚠️ Note: Snake animation tabhi dikhegi jab GitHub Actions workflow setup hoga. Ye hum baad me 2 minute me kar denge.
 
 ---
 
