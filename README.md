@@ -309,3 +309,201 @@ Looking For :
 </div>
 
 ---
+
+
+
+
+
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 E-Commerce Admin Dashboard
+
+✔ Secure Authentication
+
+✔ Role-Based Access
+
+✔ Product Management
+
+✔ Order Management
+
+✔ Analytics Dashboard
+
+✔ CRUD Operations
+
+✔ MongoDB Optimization
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Tailwind CSS
+
+</td>
+
+<td width="50%">
+
+### 📈 Mini Trading Platform
+
+✔ Portfolio Management
+
+✔ Market Insights
+
+✔ Interactive Dashboard
+
+✔ REST API Integration
+
+✔ Responsive UI
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💼 Job Search Platform
+
+✔ Authentication
+
+✔ Recruiter Dashboard
+
+✔ Job Search
+
+✔ Applicant Management
+
+✔ Admin Panel
+
+**Tech Stack**
+
+MERN Stack
+
+</td>
+
+<td width="50%">
+
+### 🌸 Bloome
+
+✔ Django Backend
+
+✔ Python
+
+✔ REST APIs
+
+✔ Responsive UI
+
+✔ Secure Authentication
+
+**Tech Stack**
+
+Python • Django • HTML • CSS
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 💼 Experience
+
+## MERN Stack Developer Intern
+
+**🏢 Seed IT Solutions**
+
+📍 Remote
+
+🗓 July 2025 – Present
+
+### Responsibilities
+
+- Built production-ready MERN applications
+
+- Developed scalable REST APIs
+
+- Optimized MongoDB queries
+
+- Implemented Redis caching
+
+- Integrated OpenAI APIs
+
+- Worked on deployment and backend optimization
+
+---
+
+# 🎓 Education
+
+### 🎓 B.Tech in Data Science
+
+**Shri Shankaracharya Technical Campus (CSVTU)**
+
+📅 2022 – 2026
+
+⭐ CGPA : **7.2**
+
+---
+
+# 📜 Certifications
+
+🏆 Python Programming — Cisco Networking Academy
+
+🏆 Cybersecurity Essentials — Cisco Networking Academy
+
+🏆 Computer Networks — Cisco Networking Academy
+
+🏆 Frontend Development — Seed IT Solutions
+
+---
+
+# 🏅 Achievements
+
+🥇 Smart India Hackathon (Internal) — Rank 1 Team Leader
+
+🚀 Built 10+ Full Stack Applications
+
+🌱 Learning Open Source Development
+
+💻 Passionate about Backend Engineering
+
+---
+
+# 🌎 Languages
+
+- 🇮🇳 Hindi
+- 🇬🇧 English
+
+---
+
+# 💡 Fun Facts
+
+```text
+💙 Love Building Full Stack Projects
+
+☕ Coffee + Coding = Productivity
+
+🐍 Python Enthusiast
+
+📚 Always Learning New Technologies
+
+🚀 Dream Company → Product Based Company
+
+🌱 Believe in Consistency over Motivation
+```
+
+---
