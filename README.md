@@ -507,3 +507,62 @@ Python • Django • HTML • CSS
 ```
 
 ---
+
+
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/firdous-rgb/firdous-rgb/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+> ⚠️ Note: Snake animation tabhi dikhegi jab GitHub Actions workflow setup hoga. Ye hum baad me 2 minute me kar denge.
+
+---
+
+# ✍️ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:firdousanjum121@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/firdous-anjum-414a3a300/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/firdous-rgb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💜 Thanks For Visiting
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,20,24,30&section=footer"/>
+
+</div>
