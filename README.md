@@ -81,3 +81,152 @@ Looking For :
 </a>
 
 </p>
+
+
+
+
+
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+---
+
+### ⚛️ Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+
+</p>
+
+---
+
+### 🚀 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Design-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+</p>
+
+---
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+---
+
+### ☁️ Deployment & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
+</p>
+
+---
+
+### 🤖 AI • Data Science • Concepts
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data_Science-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend_Development-455A64?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-3949AB?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Python Advanced
+
+✔ MERN Stack
+
+✔ SQL
+
+✔ MongoDB Optimization
+
+✔ REST API Development
+
+✔ Data Science
+
+✔ Machine Learning
+
+✔ Backend Architecture
+
+✔ CI/CD Pipelines
+
+✔ Open Source Contribution
+```
+
+---
+
+# 🎯 Career Goals
+
+```text
+🎯 Software Engineer
+
+🎯 Full Stack Developer
+
+🎯 Backend Developer
+
+🎯 Data Scientist
+
+🎯 Machine Learning Engineer
+```
+
+---
